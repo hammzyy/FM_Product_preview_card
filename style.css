@@ -2,3 +2,18 @@
     padding: 0;
     margin: 0;
 }
+
+.main{
+    display: flex;
+    background-color: hsl(30, 38%, 92%);
+}
+
+p, del{
+    font-size: 14px;
+    color: hsl(228, 12%, 48%);
+}
+
+span{
+    font-size: 32px;
+    color: hsl(158, 36%, 37%);
+}
