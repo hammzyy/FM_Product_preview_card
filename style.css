@@ -34,6 +34,14 @@ img{
     padding: 0 30px;
 }
 
+h3{
+    color: hsl(228, 12%, 48%);
+}
+
+h1{
+    color: hsl(212, 21%, 14%);
+}
+
 p{
     font-size: 14px;
     color: hsl(228, 12%, 48%);
@@ -57,4 +65,9 @@ button{
     padding: 15px;
     border-style: none;
     border-radius: 5px;
+}
+
+button:hover{
+    background-color: hsl(158, 37%, 17%);
+    cursor:pointer;
 }
